@@ -1,7 +1,27 @@
 .example-icon {
-    padding: 0 14px;
-  }
-  
-  .example-spacer {
-    flex: 1 1 auto;
-  }
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-container {
+  display: block;
+  min-height: 200px;
+}
+
+.left-content {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 50%;
+}
+
+.right-content {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 50%;
+}
+
